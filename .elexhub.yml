@@ -1,0 +1,13 @@
+details:
+  role:
+    chat app:
+      src: core
+    name*:
+      corabit
+  
+    git*:
+      github:
+        url*: https://github.com/abdfnx/corabit
+        owner*: abdfnx
+
+    plat: react-native (expo)

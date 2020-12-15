@@ -1,0 +1,12 @@
+{
+  "name": "corabit",
+  "displayName": "corabit",
+  "expo": {
+    "name": "corabit",
+    "slug": "corabit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
