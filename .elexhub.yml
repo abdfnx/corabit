@@ -1,13 +1,17 @@
 details:
-  role:
-    chat app:
-      src: core
-    name*:
-      corabit
-  
-    git*:
-      github:
-        url*: https://github.com/abdfnx/corabit
-        owner*: abdfnx
+  name*: corabit
+  src: core
+  role*: chat app
+  desc: corabit is a chat app between salers and custemors in elexhub
+  os: [ web, ios, android ]
 
-    plat: react-native (expo)
+  plat: react-native (expo)
+
+github: true
+github-details:
+  repo*: https://github.com/secman-team/corabit
+  owner*: abdfnx
+
+docker: true
+docker-detials:
+  Dockerfile: true
