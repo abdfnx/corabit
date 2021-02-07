@@ -3,15 +3,16 @@ details:
   src: core
   role*: chat app
   desc: corabit is a chat app between salers and custemors in elexhub
-  os: [ web, ios, android ]
+  os: [ web, ios, android, [ windows, osx, linux ] ]
 
   plat: react-native (expo)
 
 github: true
 github-details:
   repo*: https://github.com/secman-team/corabit
+  main-branch: main
   owner*: abdfnx
 
-docker: true
+docker: false
 docker-detials:
-  Dockerfile: true
+  Dockerfile: false
